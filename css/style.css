@@ -52,4 +52,10 @@ input [type=radio] {
   font-size: 40px;
   line-height: 70px;
   height: 70px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+div {
+  margin-bottom: 10px;
 }
